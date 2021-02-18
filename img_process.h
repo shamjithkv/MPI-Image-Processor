@@ -16,7 +16,7 @@ extern "C" {
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include <mpi/mpi.h>
+#include <mpi.h>
     
 
 
